@@ -1,57 +1,26 @@
-### INF601 - Advanced Programming in Python
-### Riley Weaver
-### Mini Project 3
-
-
 # Project Title
-
-Simple overview of use/purpose.
+Mini Project 3 - Blog Website
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+Creates a blog site. First created a database and then uses Python Flask to 
+change the database with CRUD operations and output tto the site. 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-* List pip install instructions.
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* pip install -r requirements.txt
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
-```
+flask --app flaskr init-db 
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
+flask --app flaskr run 
 ```
 
 ## Authors
 
-Contributors names and contact info
-
-
-
-## Version History
-
-
-
-## License
-
-
+Riley Weaver
 
 ## Acknowledgments
 
