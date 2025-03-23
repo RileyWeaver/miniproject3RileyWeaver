@@ -31,3 +31,5 @@ Riley Weaver
 ## Acknowledgments
 
 * [Flask](https://flask.palletsprojects.com/en/stable/tutorial/layout/) - Tutorial that was followed
+* [BootStrap Help](https://www.youtube.com/watch?v=eow125xV5-c&t=84s) - Bootstrap help, not me but a good video
+* [BootStrap](https://getbootstrap.com/) - Bootstrap resources
