@@ -4,7 +4,8 @@ Mini Project 3 - Video Game Review
 ## Description
 
 Creates a video game review site. First created a database and then uses Python Flask to 
-change the database with CRUD operations and then outputs to the site. 
+change the database with CRUD operations and then outputs to the site. Bootstrap is used at the 
+create post section for submitting the post. Enjoy!
 
 ### Dependencies
 ```
